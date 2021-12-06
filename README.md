@@ -1,7 +1,8 @@
 # Regional-Studies
 
 This is the R script used to generate the empirical results from "Dualism and payroll shares across US states" (2021),
-published in Regional studies by Ivan Mendieta-Muñoz, Codrina Rada, Ansel Schiavone & Rudi von Arnim.
+published in Regional studies by Ivan Mendieta-Muñoz, Codrina Rada, Ansel Schiavone & Rudi von Arnim. Please contact me
+at ansel.schiavone@utah.edu for access to data. 
 
 Abstract:
 
